@@ -1,7 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "jsdom": "22.1.0",
     "vitest": "0.34.1",
     "vitest-css-test-module": "1.0.0"
   }

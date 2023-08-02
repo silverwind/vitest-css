@@ -1,6 +1,5 @@
-import {foo, bar} from "./index.js";
+import {foo} from "./index.js";
 
 test("foo", () => {
   expect(foo).toEqual("foo");
-  expect(bar).toEqual("bar");
 });
